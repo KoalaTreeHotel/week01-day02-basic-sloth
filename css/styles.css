@@ -3,6 +3,14 @@ table, th, td {
     padding: 2px;
   }
 
-.table-pricing{
+table.table-pricing{
     margin-top: 20px;
+}
+
+section.day1{
+  background-color: aliceblue;
+}
+
+section.day2{
+  background-color: antiquewhite;
 }
