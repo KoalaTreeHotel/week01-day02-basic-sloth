@@ -1,1 +1,1 @@
-https://koalatreehotel.github.io/day-01-sloth/
+https://koalatreehotel.github.io/day-01-and-02-basic-sloth/
