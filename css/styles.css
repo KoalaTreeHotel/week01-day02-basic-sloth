@@ -9,11 +9,9 @@ ul.nav-ul {
   top: 0;
   width: 100%;
 }
-
 li.nav-li {
   float: left;
 }
-
 li.nav-li a {
   display: block;
   color: white;
@@ -21,7 +19,6 @@ li.nav-li a {
   padding: 4px 4px;
   text-decoration: none;
 }
-
 li.nav-li a:hover {
   background-color: #111;
 }
@@ -39,16 +36,13 @@ table.table-pricing{
 }
 
 /* Sections */
+header { 
+  margin-top: 30px;
+  background-color: antiquewhite;
+} 
 section.odd-day{
   background-color: aliceblue;
 }
-
 section.even-day{
   background-color: antiquewhite;
-}
-
-/* preventian main body text getting
-hidden by the nav bar intially */
-.main{
-  margin-top: 20px;
 }
