@@ -1,0 +1,5 @@
+-- Day 1 & day 2 challenges 
+Sorry, I put day1 and day2 in the same file before you told us not to.
+Each day is in clearly defined separate sections though.
+
+https://koalatreehotel.github.io/day-01-and-02-basic-sloth/
