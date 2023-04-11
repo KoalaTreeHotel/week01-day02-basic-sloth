@@ -3,7 +3,7 @@ Sorry, I put day1 and day2 in the same file before you told us not to.
 Each day is in clearly defined separate sections though.
 
 -- View webpage
-https://koalatreehotel.github.io/day-01-and-02-basic-sloth/
+https://koalatreehotel.github.io/day01-and-day02-basic-sloth/
 
 -- View all repos:
 https://github.com/KoalaTreeHotel?tab=repositories
